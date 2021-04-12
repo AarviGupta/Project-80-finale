@@ -1,0 +1,22 @@
+html{
+    background-image: url("bg final.jpg");
+    background-repeat:no-repeat;
+    background-size:1360px 660px;
+}
+body{
+    margin-right:500px;
+    text-align:center;
+    height:0px;
+}
+#para1{
+    width:49%;
+    float:left;;
+    
+    
+}
+#para2{
+width:49%;
+float:right;
+background-position: top;
+
+}
